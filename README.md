@@ -107,8 +107,8 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 ## 贡献与反馈
 
 欢迎提交问题和改进建议：
-- [提交 Issue](https://github.com/your-repo/issues)
-- [Fork 并提交 PR](https://github.com/your-repo/fork)
+- [提交 Issue](https://github.com/xlzhen-940218/WindowsSoftwareAutoInstall/issues)
+- [Fork 并提交 PR](https://github.com/xlzhen-940218/WindowsSoftwareAutoInstall/fork)
 
 ## 许可证
 
