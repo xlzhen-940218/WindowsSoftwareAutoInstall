@@ -44,7 +44,16 @@ $packages = @(
     @{Id = "Microsoft.PowerToys";              Name = "PowerToys"},
     @{Id = "Microsoft.VisualStudio.2022.Community"; Name = "Visual Studio 2022"},
     @{Id = "Python.Python.3.10";               Name = "Python 3.10"},
-    @{Id = "voidtools.Everything";             Name = "Everything"}
+    @{Id = "voidtools.Everything";             Name = "Everything"},
+    @{Id = "VideoLAN.VLC"                      Name = "VLC media player"}
+    @{Id = "Geeks3D.FurMark.2"                 Name = "Geeks3D FurMark 2"}
+    @{Id = "Eassos.DiskGenius"                 Name = "DiskGenius"}
+    @{Id = "Apple.iTunes"                      Name = "iTunes"}
+    @{Id = "MSYS2.MSYS2"                       Name = "MSYS2"}
+    @{Id = "OBSProject.OBSStudio"              Name = "OBSStudio"}
+    @{Id = "Valve.Steam"                       Name = "Steam"}
+    @{Id = "TigerVNC.TigerVNC"                 Name = "TigerVNC"}
+    @{Id = "AntibodySoftware.WizTree"          Name = "WizTree"}
 )
 
 # 安装函数（显示详细输出）
