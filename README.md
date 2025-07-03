@@ -30,6 +30,15 @@
 | Visual Studio 2022 | `Microsoft.VisualStudio.2022.Community` |
 | Python 3.10 | `Python.Python.3.10` |
 | Everything | `voidtools.Everything` |
+| VLC media player | `VideoLAN.VLC` |
+| Geeks3D FurMark 2 | `Geeks3D.FurMark.2` |
+| DiskGenius | `Eassos.DiskGenius` |
+| iTunes | `Apple.iTunes` |
+| MSYS2 | `MSYS2.MSYS2` |
+| OBSStudio | `OBSProject.OBSStudio` |
+| Steam | `Valve.Steam` |
+| TigerVNC | `TigerVNC.TigerVNC` |
+| WizTree | `AntibodySoftware.WizTree` |
 
 ## 系统要求
 
